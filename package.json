@@ -1,5 +1,5 @@
 {
-  "name": "hydrogen-storefront",
+  "name": "westmoon05.xyz",
   "private": true,
   "sideEffects": false,
   "version": "1.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "build": "remix vite:build",
     "codegen": "shopify hydrogen codegen",
-    "dev": "shopify hydrogen dev --codegen",
+    "dev": "next dev",
     "lint": "eslint --no-error-on-unmatched-pattern --ext .js,.ts,.jsx,.tsx .",
     "preview": "netlify serve",
     "typecheck": "tsc"
